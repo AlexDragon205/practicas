@@ -32,7 +32,7 @@ Entrada: numeros.
 Salida: fecha.
 Restricciones: Si el mes escrito es febrero no puede pasar de los 28 dias, el numero de diaas no puede pasar de 31 maximo.
 
-1.Introducir numeros en orden 00,00,0000.
+1.Introducir numeros en orden dia,mes,año (00,00,0000).
 2.Si los dias llegan a 31 solo puede ser enero, marzo, mayo, julio, agosto, octubre y diciembre.
 3.Si los dias llegan a 31 y no es ninguno de esos meses mostrar "Error datos incorrectos".
 4.Si los dias llegan a 30 dolo pueden ser abril, junio, septiembre y noviembre.
@@ -44,3 +44,4 @@ Restricciones: Si el mes escrito es febrero no puede pasar de los 28 dias, el nu
 10.Si se pone 13 en adelante mostrar "Error datos incorrectos"
 11.Los años solo pueden ser leidos desde 1 hasta 2019.
 12.Si no se ponen esos datos poner "Error datos incorrectos"
+13.Si los datos estan correctos mostrar "la fecha es" escribir numeros.
